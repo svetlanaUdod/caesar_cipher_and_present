@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/NSU/InformationSecurity/lab3/ceasar.c
+ceasar.h
+/cygdrive/d/NSU/InformationSecurity/lab3/ceasar.h
+
+/cygdrive/d/NSU/InformationSecurity/lab3/ceasar.h
+string.h
+-
+malloc.h
+-
+stdio.h
+-
+stdlib.h
+-
+
+/cygdrive/d/NSU/InformationSecurity/lab3/main.c
+ceasar.h
+/cygdrive/d/NSU/InformationSecurity/lab3/ceasar.h
+
